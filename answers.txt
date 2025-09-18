@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is widely considered and used due to its clean version control capabilities by creating a detailed history of your changes that allow you to view prior commits or track/revert previous work. This ability to track provides seamless collaboration and communcation amongst multiple parties and allows individuals to work on a project at the same time without overwriting someone's work.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to nearly any field imaginable, with common applications found in healthcare, finance, retail/e-commerce, marketing, transportation, government, agriculture, and entertainment.
+
