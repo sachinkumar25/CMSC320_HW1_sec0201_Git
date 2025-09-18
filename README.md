@@ -32,7 +32,7 @@ This should display the version of Git installed on your system.
 
 2. **Clone your forked repository** to your local machine:
 
-   Make sure your SSH key is set up for this step. If you don't have one set up, generate a new one with this step by step.
+   Make sure your SSH key is set up for this step. If you don't h ave one set up, generate a new one with this step by step.
    https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
    ```bash
